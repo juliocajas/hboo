@@ -1,19 +1,11 @@
-#EXTM3U author="hbo extreme" author-url="https://latele-envivo.com/Embed/hbo-xtreme/" 
-#EXTM3U author="hbo +" author-url="https://latele-envivo.com/Embed/hbo-plus/"
+#EXTM3U author="hbo extreme" author-url="https://latele-envivo.com/Embed/hbo-xtreme/,https://latele-envivo.com/Embed/hbo-plus/" 
 
-author-url="https://latele-envivo.com/Embed/hbo-xtreme/" 
+#EXTINF:-1 url="https://latele-envivo.com/Embed/hbo-xtreme/" 
 
-
-url="https://latele-envivo.com/Embed/hbo-xtreme/" 
-
-"https://latele-envivo.com/Embed/hbo-xtreme/" 
-
-https://latele-envivo.com/Embed/hbo-xtreme/
-
-#EXTM3U author="hbo +" author-url="https://latele-envivo.com/Embed/hbo-plus/"
+#EXTINF:-1 url=https://latele-envivo.com/Embed/hbo-xtreme/
 
 
-
+#EXTINF:-0 url="https://latele-envivo.com/Embed/hbo-xtreme/" 
 
 #EXTM3U list-name="Canales Argentina " list-image="https://i.ibb.co/2Nc4j5X/arg.png" url-author="Clic aqui para mas listas " url-author="https://acortar.link/BgeGwN"
 
